@@ -1,0 +1,51 @@
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Entities.dll
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Entities.pdb
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+F:\Projects CV\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Entities.dll
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Entities.pdb
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+F:\Projects CV\New folder\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Entities.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Entities.pdb
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
