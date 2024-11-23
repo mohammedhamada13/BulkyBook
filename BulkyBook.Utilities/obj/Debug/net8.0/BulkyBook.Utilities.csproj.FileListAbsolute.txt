@@ -34,3 +34,4 @@ F:\Projects CV\product\BulkyBook\BulkyBook.Utilities\obj\Debug\net8.0\BulkyBook.
 F:\Projects CV\product\BulkyBook\BulkyBook.Utilities\obj\Debug\net8.0\refint\BulkyBook.Utilities.dll
 F:\Projects CV\product\BulkyBook\BulkyBook.Utilities\obj\Debug\net8.0\BulkyBook.Utilities.pdb
 F:\Projects CV\product\BulkyBook\BulkyBook.Utilities\obj\Debug\net8.0\ref\BulkyBook.Utilities.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.Utilities\obj\Debug\net8.0\BulkyBook.Utilities.sourcelink.json

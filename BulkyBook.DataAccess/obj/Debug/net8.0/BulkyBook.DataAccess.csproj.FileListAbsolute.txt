@@ -49,3 +49,4 @@ F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\refint\Bu
 F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
 F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
 F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.sourcelink.json

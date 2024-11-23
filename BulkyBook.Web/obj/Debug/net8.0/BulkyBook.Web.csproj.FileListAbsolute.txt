@@ -1723,3 +1723,4 @@ F:\Projects CV\product\BulkyBook\BulkyBook.Web\obj\Debug\net8.0\refint\BulkyBook
 F:\Projects CV\product\BulkyBook\BulkyBook.Web\obj\Debug\net8.0\BulkyBook.Web.pdb
 F:\Projects CV\product\BulkyBook\BulkyBook.Web\obj\Debug\net8.0\BulkyBook.Web.genruntimeconfig.cache
 F:\Projects CV\product\BulkyBook\BulkyBook.Web\obj\Debug\net8.0\ref\BulkyBook.Web.dll
+F:\Projects CV\product\BulkyBook\BulkyBook.Web\obj\Debug\net8.0\BulkyBook.Web.sourcelink.json

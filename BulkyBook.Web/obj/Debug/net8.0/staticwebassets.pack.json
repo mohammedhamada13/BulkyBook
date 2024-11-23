@@ -5,6 +5,190 @@
       "PackagePath": "staticwebassets\\BulkyBook.Web.bundle.scp.css"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\css\\cart.css",
+      "PackagePath": "staticwebassets\\Books4MMU\\css\\cart.css"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\css\\form-validation.css",
+      "PackagePath": "staticwebassets\\Books4MMU\\css\\form-validation.css"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\css\\product.css",
+      "PackagePath": "staticwebassets\\Books4MMU\\css\\product.css"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\css\\style.css",
+      "PackagePath": "staticwebassets\\Books4MMU\\css\\style.css"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\about.txt",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\about.txt"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\apple-touch-icon.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\favicon-16x16.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\favicon-32x32.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\favicon.ico",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\favicon_io\\site.webmanifest",
+      "PackagePath": "staticwebassets\\Books4MMU\\favicon_io\\site.webmanifest"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\banner-bg.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\blog-1.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\blog-2.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\blog-3.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\blog-4.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\blog-5.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-1.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-1.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-10.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-10.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-2.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-2.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-3.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-3.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-4.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-4.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-5.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-5.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-6.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-6.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-7.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-7.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-8.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-8.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book-9.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book-9.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book3.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book3.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\book5.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\book5.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\deal-img.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\deal-img.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\letter-bg.jpg",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\letter-bg.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\loader-img.gif",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\loader-img.gif"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\pic-1.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\pic-1.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\pic-2.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\pic-2.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\pic-3.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\pic-3.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\pic-4.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\pic-4.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\pic-5.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\pic-5.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\pic-6.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\pic-6.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\stand.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\stand.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\image\\worldmap.png",
+      "PackagePath": "staticwebassets\\Books4MMU\\image\\worldmap.png"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\js\\cart.js",
+      "PackagePath": "staticwebassets\\Books4MMU\\js\\cart.js"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\Books4MMU\\js\\form-validation.js"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\js\\product.js",
+      "PackagePath": "staticwebassets\\Books4MMU\\js\\product.js"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Books4MMU\\js\\script.js",
+      "PackagePath": "staticwebassets\\Books4MMU\\js\\script.js"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\0406af86-cf6f-453c-a67a-6fc2e91a694b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\0406af86-cf6f-453c-a67a-6fc2e91a694b.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\04efcbbc-5f50-476e-af52-d4ee34424e2a.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\04efcbbc-5f50-476e-af52-d4ee34424e2a.jpg"
     },
@@ -17,12 +201,32 @@
       "PackagePath": "staticwebassets\\Images\\Products\\0f585b21-ed78-47c6-b5e5-8dfd77ac13f1.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\1a215b03-3948-4eee-81d1-095b80c78015.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\1a215b03-3948-4eee-81d1-095b80c78015.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\2176a17f-cfb8-4fcc-ba74-6c8b75e5f115.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2176a17f-cfb8-4fcc-ba74-6c8b75e5f115.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\21d8c825-735d-4983-a49f-92be8d74786f.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\21d8c825-735d-4983-a49f-92be8d74786f.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\2303e1c5-97bf-4f35-859e-1aa78f052390.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\2303e1c5-97bf-4f35-859e-1aa78f052390.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\256c2bd5-bcd2-49b5-a63c-1e49cd249db1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\256c2bd5-bcd2-49b5-a63c-1e49cd249db1.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\2b2a5c8e-7604-4c11-917d-29251fad1aae.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2b2a5c8e-7604-4c11-917d-29251fad1aae.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\2c19cf33-4024-4630-9210-177b442fec66.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2c19cf33-4024-4630-9210-177b442fec66.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\324df257-2a0d-4a59-8edf-69d85438cd19.jpg",
@@ -33,8 +237,20 @@
       "PackagePath": "staticwebassets\\Images\\Products\\3967f1b9-6a06-45fe-a14b-401fe64f66bb.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\3c24cf52-38bb-4123-81bd-f28c0e104f55.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\3c24cf52-38bb-4123-81bd-f28c0e104f55.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\3cd2ead9-3a2b-480c-aabf-597bde049a3e.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\3cd2ead9-3a2b-480c-aabf-597bde049a3e.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\3d5ee83f-abef-4168-a801-9c667d078f3c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\3d5ee83f-abef-4168-a801-9c667d078f3c.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\4240ff4d-7015-4b62-a666-61ff38780b21.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4240ff4d-7015-4b62-a666-61ff38780b21.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\42413bfe-54fd-4e8e-97a9-9b3083d60154.jpg",
@@ -49,6 +265,14 @@
       "PackagePath": "staticwebassets\\Images\\Products\\4ab71f40-e81d-4dc3-8697-7d45452f0457.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\50f0a376-bcc8-4a23-ae18-ffcc1cb5dd89.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\50f0a376-bcc8-4a23-ae18-ffcc1cb5dd89.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\5f933074-70fc-4ed3-afa6-75985fa007b8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\5f933074-70fc-4ed3-afa6-75985fa007b8.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\66a7e3d8-2529-4a44-a2ce-499ddf7ac671.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\66a7e3d8-2529-4a44-a2ce-499ddf7ac671.jpg"
     },
@@ -61,12 +285,32 @@
       "PackagePath": "staticwebassets\\Images\\Products\\6f27bae3-b1d5-4444-bbf7-51441de4eb2e.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\734a7ea5-4253-43eb-af07-600be8f06dd8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\734a7ea5-4253-43eb-af07-600be8f06dd8.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\7bdde7e7-bea5-4c67-8d4b-bfe44975f83c.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\7bdde7e7-bea5-4c67-8d4b-bfe44975f83c.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\815f448a-3bd0-452b-b9dd-e7dee00c45c3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\815f448a-3bd0-452b-b9dd-e7dee00c45c3.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\8170b2e2-b954-4202-8eb9-32b5c50c0eab.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\8170b2e2-b954-4202-8eb9-32b5c50c0eab.png"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\88489b9b-685c-46b1-a96a-3a471108d122.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\88489b9b-685c-46b1-a96a-3a471108d122.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\8d0f13f3-1a27-40ff-8d4e-92a0f3a82f79.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\8d0f13f3-1a27-40ff-8d4e-92a0f3a82f79.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\941485c2-a86c-42c5-af92-c430a18e56c7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\941485c2-a86c-42c5-af92-c430a18e56c7.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\97212ba4-7471-4dd1-8b0f-796d85923eac.jpg",
@@ -75,6 +319,10 @@
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\9b3edef2-f9bd-4219-98de-a3f955ffa948.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\9b3edef2-f9bd-4219-98de-a3f955ffa948.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\a2e5b33d-64a8-4285-bce0-657deaa46bc7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\a2e5b33d-64a8-4285-bce0-657deaa46bc7.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\a384b192-b3c6-41b1-86aa-799fe412a303.jpg",
@@ -101,8 +349,24 @@
       "PackagePath": "staticwebassets\\Images\\Products\\b4192fd9-818b-426a-960e-8f7681027eff.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\bd86d2e8-c0fc-4ad0-94da-865d1d932b34.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\bd86d2e8-c0fc-4ad0-94da-865d1d932b34.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\be2d3775-91f0-43b9-96db-9a1c222d8473.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\be2d3775-91f0-43b9-96db-9a1c222d8473.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\c22d40d5-e0f8-47f1-9afe-95ba78f30453.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\c22d40d5-e0f8-47f1-9afe-95ba78f30453.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\c5069797-45f7-49c3-84e1-8ae7c8fbca94.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c5069797-45f7-49c3-84e1-8ae7c8fbca94.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\c96fe2fe-c150-414e-9b48-fc9f6b9b4a02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c96fe2fe-c150-414e-9b48-fc9f6b9b4a02.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\ca322151-6cc2-49fe-9cb8-5408762d04fe.jpg",
@@ -113,8 +377,16 @@
       "PackagePath": "staticwebassets\\Images\\Products\\d8d5cdad-494d-4096-8512-d56a090d06b0.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\da38b6d8-be52-4776-882c-b7e63d7afb74.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\da38b6d8-be52-4776-882c-b7e63d7afb74.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\e011bd68-8c5d-4c2d-bbf4-d4fa67a0e798.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\e011bd68-8c5d-4c2d-bbf4-d4fa67a0e798.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\e5f4a38b-8dbb-4d1b-b5c4-f9c1865811fb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e5f4a38b-8dbb-4d1b-b5c4-f9c1865811fb.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\e981ef8e-bb9a-4749-bf2c-530c38fe54fe.jpg",
@@ -125,8 +397,16 @@
       "PackagePath": "staticwebassets\\Images\\Products\\ebcbc8f4-d5f7-4c33-bc92-8ba6cd3695bd.jpg"
     },
     {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\f4813d5b-2cc6-4830-9adc-4679f863df84.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\f4813d5b-2cc6-4830-9adc-4679f863df84.jpg"
+    },
+    {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\f8790b90-99f3-4e9f-a13f-bec398b97ce5.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\f8790b90-99f3-4e9f-a13f-bec398b97ce5.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\f88a1b71-8c4b-41c3-b20c-ef7442aaf8da.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\f88a1b71-8c4b-41c3-b20c-ef7442aaf8da.jpg"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Images\\Products\\f946937b-ba8d-4d30-b150-8b2fc2a2c66f.jpg",
@@ -135,478 +415,6 @@
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\Motatawera 1.jpg",
       "PackagePath": "staticwebassets\\Motatawera 1.jpg"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\easing\\easing.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\easing\\easing.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\easing\\easing.min.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\easing\\easing.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\LICENSE",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\ajax-loader.gif",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\ajax-loader.gif"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\owl.carousel.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\owl.carousel.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\owl.theme.default.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\owl.theme.default.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\owl.theme.green.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\owl.theme.green.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\assets\\owl.video.play.png",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\assets\\owl.video.play.png"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\owl.carousel.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\owl.carousel.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\owlcarousel\\owl.carousel.min.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\owlcarousel\\owl.carousel.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
-      "PackagePath": "staticwebassets\\coffee\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\tempusdominus\\js\\moment-timezone.min.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\tempusdominus\\js\\moment-timezone.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\tempusdominus\\js\\moment.min.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\tempusdominus\\js\\moment.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\waypoints\\links.php",
-      "PackagePath": "staticwebassets\\coffee\\lib\\waypoints\\links.php"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\lib\\waypoints\\waypoints.min.js",
-      "PackagePath": "staticwebassets\\coffee\\lib\\waypoints\\waypoints.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_alert.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_alert.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_badge.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_badge.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_breadcrumb.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_breadcrumb.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_button-group.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_button-group.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_buttons.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_buttons.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_card.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_card.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_carousel.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_carousel.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_close.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_close.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_code.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_code.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_custom-forms.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_custom-forms.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_dropdown.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_dropdown.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_forms.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_forms.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_functions.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_functions.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_grid.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_grid.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_images.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_images.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_input-group.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_input-group.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_jumbotron.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_jumbotron.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_list-group.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_list-group.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_media.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_media.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_mixins.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_mixins.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_modal.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_modal.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_nav.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_nav.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_navbar.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_navbar.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_pagination.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_pagination.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_popover.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_popover.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_print.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_print.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_progress.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_progress.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_reboot.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_reboot.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_root.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_root.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_spinners.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_spinners.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_tables.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_tables.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_toasts.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_toasts.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_tooltip.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_tooltip.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_transitions.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_transitions.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_type.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_type.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_utilities.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_utilities.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\_variables.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\_variables.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap-grid.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap.css",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap.css.map"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\bootstrap.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\bootstrap.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_float.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_float.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_image.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_image.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_size.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_size.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_align.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_align.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_background.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_background.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_display.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_display.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_float.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_float.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_position.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_position.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_text.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_text.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\coffee\\scss\\style.scss",
-      "PackagePath": "staticwebassets\\coffee\\scss\\style.scss"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\css\\adminlte.css",
@@ -1519,6 +1327,158 @@
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\digital\\scss\\style.scss",
       "PackagePath": "staticwebassets\\digital\\scss\\style.scss"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\elearning\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\css\\style.css",
+      "PackagePath": "staticwebassets\\elearning\\css\\style.css"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\360_F_920190383_NHi855KHw9pGYC5h4lIpul76xfDQ5uBH.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\360_F_920190383_NHi855KHw9pGYC5h4lIpul76xfDQ5uBH.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\613e1c6f18cf6.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\613e1c6f18cf6.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\613e1da6bfbf7.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\613e1da6bfbf7.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\613e1da6bfd76.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\613e1da6bfd76.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\6144ae27bc518.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\6144ae27bc518.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\about-img.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\about.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\anime-original-book-chair-library-hd-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\anime-original-book-chair-library-hd-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\course-1.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\course-2.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\course-3.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\images.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\images.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\images0.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\images0.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\images02.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\images02.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\photo_2024-11-10_16-55-31.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\photo_2024-11-10_16-55-31.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\photo_2024-11-10_20-08-49.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\photo_2024-11-10_20-08-49.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\photo_2024-11-11_08-09-44.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\photo_2024-11-11_08-09-44.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\photo_2024-11-11_08-09-45.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\photo_2024-11-11_08-09-45.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\photo_2024-11-11_08-09-47.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\photo_2024-11-11_08-09-47.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\photo_2024-11-11_08-09-48.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\photo_2024-11-11_08-09-48.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\team-1.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\team-2.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\team-3.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\team-4.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\elearning\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\js\\main.js",
+      "PackagePath": "staticwebassets\\elearning\\js\\main.js"
     },
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\elearning\\lib\\animate\\animate.css",
@@ -2707,422 +2667,6 @@
     {
       "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\shoppingcart\\style.css",
       "PackagePath": "staticwebassets\\shoppingcart\\style.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\css\\animate.css",
-      "PackagePath": "staticwebassets\\show\\css\\animate.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\show\\css\\bootstrap.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\css\\icomoon.css",
-      "PackagePath": "staticwebassets\\show\\css\\icomoon.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\css\\owl.carousel.min.css",
-      "PackagePath": "staticwebassets\\show\\css\\owl.carousel.min.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\css\\owl.theme.default.min.css",
-      "PackagePath": "staticwebassets\\show\\css\\owl.theme.default.min.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\css\\style.css",
-      "PackagePath": "staticwebassets\\show\\css\\style.css"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
-      "PackagePath": "staticwebassets\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
-      "PackagePath": "staticwebassets\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
-      "PackagePath": "staticwebassets\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
-      "PackagePath": "staticwebassets\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
-      "PackagePath": "staticwebassets\\show\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\icomoon\\icomoon.eot",
-      "PackagePath": "staticwebassets\\show\\fonts\\icomoon\\icomoon.eot"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\icomoon\\icomoon.svg",
-      "PackagePath": "staticwebassets\\show\\fonts\\icomoon\\icomoon.svg"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\icomoon\\icomoon.ttf",
-      "PackagePath": "staticwebassets\\show\\fonts\\icomoon\\icomoon.ttf"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\fonts\\icomoon\\icomoon.woff",
-      "PackagePath": "staticwebassets\\show\\fonts\\icomoon\\icomoon.woff"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\images\\book_black.png",
-      "PackagePath": "staticwebassets\\show\\images\\book_black.png"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\images\\book_white.png",
-      "PackagePath": "staticwebassets\\show\\images\\book_white.png"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\images\\hero_bg_1.jpg",
-      "PackagePath": "staticwebassets\\show\\images\\hero_bg_1.jpg"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\images\\person_1.jpg",
-      "PackagePath": "staticwebassets\\show\\images\\person_1.jpg"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\images\\person_2.jpg",
-      "PackagePath": "staticwebassets\\show\\images\\person_2.jpg"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\images\\person_3.jpg",
-      "PackagePath": "staticwebassets\\show\\images\\person_3.jpg"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\show\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\jquery.easing.1.3.js",
-      "PackagePath": "staticwebassets\\show\\js\\jquery.easing.1.3.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\show\\js\\jquery.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\jquery.waypoints.min.js",
-      "PackagePath": "staticwebassets\\show\\js\\jquery.waypoints.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\main.js",
-      "PackagePath": "staticwebassets\\show\\js\\main.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\modernizr-2.6.2.min.js",
-      "PackagePath": "staticwebassets\\show\\js\\modernizr-2.6.2.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\owl.carousel.min.js",
-      "PackagePath": "staticwebassets\\show\\js\\owl.carousel.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\js\\respond.min.js",
-      "PackagePath": "staticwebassets\\show\\js\\respond.min.js"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\_bootstrap-compass.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\_bootstrap-compass.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\_bootstrap-mincer.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\_bootstrap-mincer.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\_bootstrap-sprockets.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\_bootstrap-sprockets.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_alerts.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_alerts.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_badges.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_badges.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_breadcrumbs.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_breadcrumbs.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_button-groups.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_button-groups.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_buttons.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_buttons.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_carousel.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_carousel.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_close.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_close.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_code.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_code.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_component-animations.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_component-animations.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_dropdowns.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_dropdowns.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_forms.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_forms.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_glyphicons.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_glyphicons.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_grid.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_grid.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_input-groups.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_input-groups.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_jumbotron.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_jumbotron.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_labels.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_labels.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_list-group.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_list-group.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_media.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_media.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_mixins.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_mixins.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_modals.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_modals.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_navbar.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_navbar.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_navs.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_navs.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_normalize.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_normalize.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_pager.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_pager.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_pagination.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_pagination.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_panels.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_panels.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_popovers.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_popovers.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_print.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_print.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_progress-bars.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_progress-bars.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_responsive-embed.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_responsive-embed.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_responsive-utilities.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_responsive-utilities.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_scaffolding.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_scaffolding.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_tables.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_tables.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_theme.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_theme.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_thumbnails.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_thumbnails.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_tooltip.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_tooltip.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_type.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_type.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_utilities.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_utilities.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_variables.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_variables.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\_wells.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\_wells.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_alerts.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_alerts.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_background-variant.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_background-variant.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_border-radius.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_border-radius.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_buttons.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_buttons.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_center-block.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_center-block.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_clearfix.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_forms.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_forms.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_gradients.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_gradients.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_grid-framework.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_grid-framework.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_grid.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_grid.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_hide-text.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_hide-text.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_image.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_image.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_labels.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_labels.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_list-group.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_list-group.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_nav-divider.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_nav-divider.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_opacity.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_opacity.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_pagination.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_pagination.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_panels.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_panels.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_progress-bar.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_progress-bar.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_reset-filter.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_reset-filter.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_reset-text.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_reset-text.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_resize.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_resize.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_size.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_size.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_tab-focus.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_tab-focus.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_table-row.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_table-row.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_text-overflow.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_text-overflow.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
-    },
-    {
-      "Id": "F:\\Projects CV\\product\\BulkyBook\\BulkyBook.Web\\wwwroot\\show\\sass\\style.scss",
-      "PackagePath": "staticwebassets\\show\\sass\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyBook.Web.Microsoft.AspNetCore.StaticWebAssets.props",
